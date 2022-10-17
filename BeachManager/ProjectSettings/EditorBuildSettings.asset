@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Tarik/Scenes/Tarik.unity
+    path: Assets/Scenes/Level 0.unity
     guid: e58a9ba0c19b1bb438d722f5d79ca6e9
   m_configObjects: {}
